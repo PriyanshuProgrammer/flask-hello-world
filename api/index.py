@@ -50,5 +50,3 @@ def home():
         "reponse":Agent(data['question'])
 })
 
-if __name__ == '__main__':
-    app.run(debug=True)
